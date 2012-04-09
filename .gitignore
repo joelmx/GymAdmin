@@ -1,0 +1,4 @@
+/database/*
+/build/*
+/dist/*
+/lib/*

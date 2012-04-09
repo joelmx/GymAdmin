@@ -15,6 +15,8 @@ public class Test {
         String userName = "sa";
         String password = "";
         
+        String test = "this is a test";
+        
         Connection conn = null;
         Statement stmt = null;
         
